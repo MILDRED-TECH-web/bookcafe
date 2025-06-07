@@ -1,5 +1,5 @@
 # bookcafe
-coffee bookcafe with libraly
+coffee bookcafe with library
 
 ## Overview
 The project is designed to help customers to find a place to relax after work or at free time,
